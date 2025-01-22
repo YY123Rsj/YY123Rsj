@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 任思剑@Astro Ren
 - 👀 I’m interested in machine learning/badminton
-- 🌱 I’m an undergraduate student of Electronic Engineering at Tongji University.
+- 🌱 I’m an undergraduate student of Artificial Intelligence at Tongji University.
 - 📫 How to reach me 2153264@tongji.edu.cn or 2321816292@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
